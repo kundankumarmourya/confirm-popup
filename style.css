@@ -58,6 +58,7 @@ a:hover{
     background-color: #a94442;
     margin-bottom: 10px;
     color: #fff;
+    padding: 5px 10px;
 }
 .disableClick:hover{
 	opacity: 0.5;
